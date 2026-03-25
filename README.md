@@ -1,7 +1,7 @@
 # TML
 
 TML (Teardown mod loader) is a **simple** mod loader for the game Teardown.  
-This mod is NOT officially endorsed or supported by the Teardown developers.
+This program is NOT officially endorsed or supported by the Teardown developers.
 
 ## Features
 TML can currently:
